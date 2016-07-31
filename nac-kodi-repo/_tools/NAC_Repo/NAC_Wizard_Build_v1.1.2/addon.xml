@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="NAC_Wizard_Build_v1.1.2" name="NACTVBox.com Build Wizard" version="1.1.2" provider-name="NACTVBox.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"NACTVBox.com Confluence Build Wizard v1.1.2</summary>
+    <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO TVADDONS FOR THEIR CONFLUENCE BUILD AND TO NACTVBOX.COM FOR THEIR MODS AND TO ALL OTHER DEVS OUT THERE##
+##Build Credit To NACTVBox.com, Confluence Build, and All Other Devs World Wide##</description>
+	<website>http://NACTVBox.com</website>
+    <platform>all</platform>
+  </extension>
+</addon>
